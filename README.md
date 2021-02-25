@@ -1,7 +1,3 @@
-# README Template
-
-Below is a template provided for use when building your README file for students.
-
 # Project Title
 
 Project description goes here.
@@ -44,9 +40,9 @@ This section should contain all the student deliverables for this project.
 
 ## Built With
 
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
+- [Item1](www.item1.com) - Description of item
+- [Item2](www.item2.com) - Description of item
+- [Item3](www.item3.com) - Description of item
 
 Include all items used to build project.
 
